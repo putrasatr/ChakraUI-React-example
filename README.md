@@ -1,10 +1,18 @@
-# Getting Started with Create React App
+# Getting Started with Create React App With Chakra-UI Config
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `git clone git@github.com:putrasatr/ChakraUI-React-example.git`
+
+Cloning the project from github to your local.
+
+### `npm start`
+
+Install all the depedencies in the package.json file.
 
 ### `npm start`
 
